@@ -56,7 +56,6 @@ class Person{
 		return "Person [name=" + name + ", address=" + address + "]";
 	}
 	
-
 }
 class Child{
 	void display() {
